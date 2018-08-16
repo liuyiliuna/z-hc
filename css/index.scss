@@ -68,13 +68,15 @@
 
 // 名医团队
 .doc-team {
-  // box-sizing: border-box;
+ height:580px;
+ margin-bottom:20px;
 }
 
 .title {
   padding: 15px 15px 8px 15px;
   border-bottom: 2px solid #1095e3;
   box-sizing: border-box;
+  // height:43px;
 }
 
 .title>h3 {
@@ -94,6 +96,7 @@
   padding: 15px;
   border: 1px solid #E4E4E4;
   position: relative;
+  height:500px;
 }
 
 .team-tab li {
@@ -223,7 +226,6 @@
     background: url("../images/table-right2.png") center center no-repeat;
   }
 }
-
 .yuyue {
   display:block;
   width: 44px !important;
@@ -236,6 +238,7 @@
   border-radius: 4px;
   letter-spacing: 2px;
   padding-left: 3px;
+  margin-left:25px;
 }
 .yuyue:hover {
   background-color: #2e6da4;
@@ -409,12 +412,13 @@
   border-bottom: 3px solid #1095E3;
 }
 
-.tab-content {
+.content-img {
   p {
     color: #333;
     font-size: 14px;
   }
   .con .con-list li {
+    margin-top:40px;
     width: 221.5px;
     text-align: center;
     img {
@@ -465,7 +469,7 @@
     border-right: 1px solid #ccc;
     border-bottom: 3px solid #1095e3; // padding-top: 10px;
     // padding-left: 15px;
-    // padding-right: 10px;
+        // padding-right: 10px;
     padding: 4.5px 10px 4.5px 20px;
   }
   .f-s {

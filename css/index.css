@@ -56,6 +56,10 @@
     display: block;
     font-size: 10px; }
 
+.doc-team {
+  height: 580px;
+  margin-bottom: 20px; }
+
 .title {
   padding: 15px 15px 8px 15px;
   border-bottom: 2px solid #1095e3;
@@ -75,7 +79,8 @@
   margin-top: 15px;
   padding: 15px;
   border: 1px solid #E4E4E4;
-  position: relative; }
+  position: relative;
+  height: 500px; }
 
 .team-tab li {
   width: 74px;
@@ -192,7 +197,8 @@
   border: 0;
   border-radius: 4px;
   letter-spacing: 2px;
-  padding-left: 3px; }
+  padding-left: 3px;
+  margin-left: 25px; }
 
 .yuyue:hover {
   background-color: #2e6da4;
@@ -327,13 +333,14 @@
 .list-tab .bor-color {
   border-bottom: 3px solid #1095E3; }
 
-.tab-content p {
+.content-img p {
   color: #333;
   font-size: 14px; }
-.tab-content .con .con-list li {
+.content-img .con .con-list li {
+  margin-top: 40px;
   width: 221.5px;
   text-align: center; }
-  .tab-content .con .con-list li img {
+  .content-img .con .con-list li img {
     width: 169px;
     height: 132px; }
 
