@@ -1,0 +1,147 @@
+
+// 来院路线banner图
+.banner-img img {
+  width: 1920px;
+  height: 364px;
+  position: relative;
+  left: 50%;
+  margin-left: -960px;
+}
+
+// 路线地址
+.lylx-map {
+  .map-title {
+    border-top: 4px solid #377bee;
+    background: #e2e2e2;
+  }
+  .title-content {
+    height: 40px;
+  }
+  .tit {
+    text-indent: 1.5em;
+    width: 130px;
+    height: 40px;
+    line-height: 34px;
+    font-size: 20px;
+    color: #fff;
+    background: url(../images/tit-img.png) no-repeat 10px 5px #377bee;
+  }
+  .tit-p {
+    font-size: 16px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 20px;
+  }
+  .chat {
+    display: block;
+    width: 86px;
+    height: 22px;
+    background: #5ca946;
+    margin-top: 9px;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+  }
+  .chat:hover {
+    background-color: #40852c;
+  }
+  .map-lyly {
+    padding: 30px;
+    img {
+      width: 990px;
+      border: 5px solid #e2e2e2;
+    }
+  }
+}
+
+// 路线详情
+.lylx-body{
+ border-bottom:4px solid #377bee;
+}
+strong {
+  background: #377bee;
+  font-size: 16px;
+  color: #fff;
+  padding: 2px 10px;
+}
+span {
+  color: #c00;
+}
+.line {
+  // margin-top: 30px;
+  // margin-bottom: 20px;
+  .dl-wrap {
+    width: 410px;
+    padding: 30px 40px;
+    margin:40px 0;
+    border: 5px solid #e2e2e2;
+    img {
+      margin-bottom: 12px;
+    }
+    .nearby-line {
+      margin-bottom: 12px;
+      width: 64px;
+      height: 114px;
+      font-size: 18px;
+      color: #fff;
+      background: url("../images/more-img.png") no-repeat center 70px #333;
+      p {
+        width: 40px;
+        margin-left: 14px;
+        margin-top: 14px;
+        margin-bottom: 10px;
+      }
+    }
+  }
+  // dt
+  .mr {
+    margin-top: 10px;
+  }
+  .nearby-bg {
+    margin: 10px 0px;
+  } // dd
+  .font-s {
+    font-size: 13px;
+  }
+  .bor {
+    border-left: 0;
+    padding-right: 45px;
+  }
+}
+.title{
+background:#e2e2e2;
+height:45px;
+line-height:45px;
+color:#333;
+font-size:22px;
+text-align:center;
+font-weight:bold;
+.bg-img1{
+  background:url("../images/way02.png") no-repeat 380px 12px;  
+}
+.bg-img2{
+  background:url("../images/way03.png") no-repeat 380px 12px;
+}
+p{
+  background:url("../images/way01.png") no-repeat 380px 12px;
+}
+}
+.bor{
+  border-bottom:2px dashed #bbb;
+}
+.pad{
+  padding:20px 0;
+  dd>p{
+    width:781px;
+    font-size:14px;
+    line-height:26px;
+    margin-top:10px;
+    text-indent:1.5em;
+    background:url("../images/piont.jpg") no-repeat 0 8px;
+  }
+}

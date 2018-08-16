@@ -1,0 +1,117 @@
+.banner-img img {
+  width: 1920px;
+  height: 364px;
+  position: relative;
+  left: 50%;
+  margin-left: -960px; }
+
+.lylx-map .map-title {
+  border-top: 4px solid #377bee;
+  background: #e2e2e2; }
+.lylx-map .title-content {
+  height: 40px; }
+.lylx-map .tit {
+  text-indent: 1.5em;
+  width: 130px;
+  height: 40px;
+  line-height: 34px;
+  font-size: 20px;
+  color: #fff;
+  background: url(../images/tit-img.png) no-repeat 10px 5px #377bee; }
+.lylx-map .tit-p {
+  font-size: 16px;
+  height: 40px;
+  line-height: 40px;
+  margin-left: 20px; }
+.lylx-map .chat {
+  display: block;
+  width: 86px;
+  height: 22px;
+  background: #5ca946;
+  margin-top: 9px;
+  color: white;
+  font-size: 14px;
+  text-align: center;
+  border-radius: 12px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  -ms-border-radius: 12px;
+  -o-border-radius: 12px; }
+.lylx-map .chat:hover {
+  background-color: #40852c; }
+.lylx-map .map-lyly {
+  padding: 30px; }
+  .lylx-map .map-lyly img {
+    width: 990px;
+    border: 5px solid #e2e2e2; }
+
+.lylx-body {
+  border-bottom: 4px solid #377bee; }
+
+strong {
+  background: #377bee;
+  font-size: 16px;
+  color: #fff;
+  padding: 2px 10px; }
+
+span {
+  color: #c00; }
+
+.line .dl-wrap {
+  width: 410px;
+  padding: 30px 40px;
+  margin: 40px 0;
+  border: 5px solid #e2e2e2; }
+  .line .dl-wrap img {
+    margin-bottom: 12px; }
+  .line .dl-wrap .nearby-line {
+    margin-bottom: 12px;
+    width: 64px;
+    height: 114px;
+    font-size: 18px;
+    color: #fff;
+    background: url("../images/more-img.png") no-repeat center 70px #333; }
+    .line .dl-wrap .nearby-line p {
+      width: 40px;
+      margin-left: 14px;
+      margin-top: 14px;
+      margin-bottom: 10px; }
+.line .mr {
+  margin-top: 10px; }
+.line .nearby-bg {
+  margin: 10px 0px; }
+.line .font-s {
+  font-size: 13px; }
+.line .bor {
+  border-left: 0;
+  padding-right: 45px; }
+
+.title {
+  background: #e2e2e2;
+  height: 45px;
+  line-height: 45px;
+  color: #333;
+  font-size: 22px;
+  text-align: center;
+  font-weight: bold; }
+  .title .bg-img1 {
+    background: url("../images/way02.png") no-repeat 380px 12px; }
+  .title .bg-img2 {
+    background: url("../images/way03.png") no-repeat 380px 12px; }
+  .title p {
+    background: url("../images/way01.png") no-repeat 380px 12px; }
+
+.bor {
+  border-bottom: 2px dashed #bbb; }
+
+.pad {
+  padding: 20px 0; }
+  .pad dd > p {
+    width: 781px;
+    font-size: 14px;
+    line-height: 26px;
+    margin-top: 10px;
+    text-indent: 1.5em;
+    background: url("../images/piont.jpg") no-repeat 0 8px; }
+
+/*# sourceMappingURL=lylx.css.map */

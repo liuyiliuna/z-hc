@@ -1,0 +1,362 @@
+// 李长恒
+span {
+  color: rgb(255, 0, 0);
+}
+.zjfc-border{
+  border-top:3px solid #1095e3;
+}
+.expert-de {
+  width: 1198px;
+  height: 34px;
+  line-height: 34px; // padding:3px;
+  margin: 15px auto;
+  background: #f6f6f6;
+  color: #666;
+  font-size: 14px;
+  border: 1px solid #ddd;
+  b {
+    font-size: 14px;
+    font-weight: normal;
+    color: #333;
+    padding-left: 30px;
+    background: url("../images/web-pos.png") no-repeat 10px 0;
+  }
+  a {
+    color: #333;
+  }
+}
+
+.mien {
+  width: 853px;
+  border: 1px solid #ddd;
+  padding: 15px 15px 0px 15px;
+  margin-bottom:30px;
+  .zjfc-info {
+    margin: 13px 0 40px 0;
+    text-align: center;
+    font-size: 12px;
+  }
+  .em-bg {
+    background: #ff9026;
+  }
+  em>a {
+    color: #fff;
+  }
+  em {
+    background: #1095e3;
+    padding: 2px 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+  }
+  h4 {
+    font-size: 26px;
+    color: #333;
+    font-weight: bold;
+    text-align: center;
+  }
+}
+
+.dl-l {
+  dd {
+    font-size: 14px;
+    margin: 15px;
+    line-height: 30px;
+  }
+  .text-center {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  .txt-indent {
+    text-indent: 2em;
+  }
+}
+
+.wid {
+  width: 298px;
+  .bor {
+    border: 1px solid #ddd;
+  }
+  .fr-tit {
+    color: #333;
+    height: 30px;
+    line-height: 30px;
+    border-bottom: 1px solid #ddd;
+    background: #f6f6f6;
+    padding: 0px 6px 0px 15px;
+    font-size: 16px;
+    span {
+      margin-left: 6px;
+      color: #333;
+    }
+    img {
+      margin-top: 5px;
+    }
+  }
+}
+
+.dl-r {
+  padding: 15px 0px;
+  margin-left: 15px;
+  .sp-color {
+    color: #666;
+  }
+  b>a {
+    width: 29%;
+    height: 32px;
+    line-height: 32px;
+    text-align: center;
+    margin-right: 8px;
+    background: #1095e3;
+    display: inline-block;
+    color: #fff;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  b>a:hover {
+    background: #e1eefa;
+    color: #1095e3;
+  }
+  dd {
+    font-size: 14px;
+    line-height: 28px;
+  }
+  b {
+    margin-top: 10px;
+    font-size: 14px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+  }
+}
+
+.marginTop {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.dl-width {
+  padding: 10px 15px;
+  height: 111px;
+  img {
+    padding: 1px;
+    border: 1px solid #bad1e0;
+  }
+}
+
+.txt-r {
+  width: 150px;
+  margin-left: 5px;
+  .btn {
+    display: inline-block;
+    width: 72px;
+    text-align: center;
+    background: #1095e3;
+    margin-top: 4px;
+    color: #fff;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+  }
+  .btn:hover {
+    background: #0081ca;
+  }
+  .btn2 {
+    background: #ff9026;
+  }
+  .btn2:hover {
+    background: #e47810;
+  }
+  strong {
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: normal;
+  }
+  p,
+  a {
+    font-size: 12px;
+    line-height: 22px;
+  }
+}
+
+.pad {
+  padding: 10px 13px;
+  dt {
+    width: 50px;
+    height: 22px;
+    line-height: 22px;
+    text-align: center;
+    margin: 2px 2px;
+  }
+  dd {
+    width: 104px;
+    height: 22px;
+    margin: 2px 2px;
+    text-align: center;
+    line-height: 22px;
+  }
+  dt>a,
+  dd>a {
+    color: #333;
+    border-radius: 3px;
+    background: #f5f5f5;
+    display: block;
+  }
+  dt>a:hover,
+  dd>a:hover {
+    color: #fff;
+    background: #0081ca;
+    border-radius: 3px;
+    display: block;
+  }
+}
+
+.dl-padding {
+  padding: 15px 15px 5px;
+  img {
+    width: 268px;
+    margin-bottom: 10px;
+  }
+  p {
+    line-height: 28px;
+    width: 100%;
+    color: #666;
+    font-size: 14px;
+  }
+  b {
+    color: #333;
+    font-weight: normal;
+  }
+}
+
+.line-way {
+  color: #888;
+  padding-right: 15px;
+  float: right;
+  font-size: 12px;
+}
+// 余碧娥
+.dis{
+  display:block;
+}
+.text-color{
+  color:  rgb(0, 0, 0);
+  font-family:宋体;
+}
+.dl-l .text-ind{
+  text-indent:2em;
+  margin:32px 0px;
+}
+// 周连宝
+.zlb dd{
+  text-indent:2em;
+  font-size:14px;
+  color:#333;
+}
+// 黄桂清
+
+// 罗燕
+// 何桂兰
+.str-color{
+  color:#ff0000;
+  font-weight:normal;
+}
+// 李雪辉
+.lxh{
+  color:rgb(102,102,102);
+}
+// 方诩
+.fx-p{
+  color:rgb(0,0,0);
+  font-family:宋体;
+}
+// 专家风采
+.zjnav {
+  padding: 20px 0;
+  background: #f3f7fa;
+  .zjtitle {
+    width: 998px;
+    border-left: 2px solid #377bee;
+    p {
+      font-size: 24px;
+      color: #333;
+      margin-left: 10px;
+    }
+    span {
+      margin-left: 10px;
+      color: #ababab;
+      font-size: 16px;
+    }
+  }
+  .zjbox {
+    width: 238px;
+    height: 280px;
+    border: 1px solid #ddd;
+    margin: 20px 10px 0 0;
+    .i-mar{
+      margin-left:20px;
+      margin-top:10px;
+      dd{
+        margin-left:5px;
+        margin-top:5px;
+      }
+    }
+  }
+  .doc-dl {
+    text-align: center;
+    line-height:22px;
+  dt{
+    margin:20px auto 5px;
+  }
+  dd{
+    color:#333;
+  }
+  strong{
+    color:#377bee;
+    font-size:14px;
+    font-weight:normal;
+    margin-right:5px;
+  }
+  b{
+    color:#333;
+    font-size:14px;
+    font-weight:normal;
+  }
+  h4{
+    color:#666;
+  }
+  }
+}
+.zjfc-banner{
+  width:100%;
+  position:relative;
+  height:380px;
+  overflow:hidden;
+}
+.banner-line{
+  width:210px;
+  left:50%;
+  margin-left:-105px;
+  position:absolute;
+  bottom:5px;
+  .bor-green{
+    border:2px solid #5ca946;
+  }
+  span{
+    cursor:pointer;
+    width:95px;
+    display:inline-block;
+    border:2px solid #b5b5b5;
+  }
+}
